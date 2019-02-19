@@ -1,0 +1,87 @@
+Distillery,ComplexityThenBalanceRank,BalanceThenComplexityRank,Complexity,Balance,Category
+Bruichladdich,1,1,11,2.368281458,heres categ-01
+OldPulteney,2,2,11,2.224859546,categ-00bbccc
+Scapa,3,3,11,2.224859546,heres categ-03
+Bowmore,4,7,11,1.880349512,heres categ-03
+OldFettercairn,5,8,11,1.880349512,categ-00bbccc
+Dalmore,6,9,11,1.877669041,categ-00bbccc
+RoyalBrackla,7,10,11,1.877669041,heres categ-03
+Craigallechie,8,11,11,1.812894196,heres categ-01
+Highland Park,9,13,11,1.786551726,categ-00bbccc
+Bunnahabhain,10,19,11,1.712697677,heres categ-03
+Aberfeldy,11,4,10,1.996734282,heres categ-01
+Benromach,12,5,10,1.996734282,heres categ-04
+BlairAthol,13,6,10,1.996734282,heres categ-03
+RoyalLochnagar,14,12,10,1.812894196,heres categ-01
+Springbank,15,14,10,1.786551726,heres categ-05
+Mortlach,16,15,10,1.780181906,heres categ-04
+Strathisla,17,16,10,1.780181906,heres categ-01
+Glenturret,18,17,10,1.758601469,heres categ-05
+GlenScotia,19,18,10,1.712697677,heres categ-03
+Glenmorangie,20,20,10,1.712697677,heres categ-01
+Aberlour,21,21,10,1.709665457,heres categ-05
+Glenlivet,22,22,10,1.692508001,heres categ-04
+Auchroisk,23,23,10,1.658312395,heres categ-05
+Benrinnes,24,24,10,1.658312395,heres categ-05
+Knochando,25,25,10,1.658312395,heres categ-05
+Loch Lomond,26,26,10,1.658312395,heres categ-04
+Isle of Jura,27,27,10,1.625471274,heres categ-05
+Mannochmore,28,28,10,1.625471274,heres categ-04
+Glendullan,29,29,10,1.589365101,heres categ-05
+GlenOrd,30,30,10,1.573485525,categ-mnxcn
+Dailuaine,31,31,10,1.55315186,categ-mnxcn
+Glenfarclas,32,32,10,1.536206066,heres categ-05
+Ardmore,33,33,10,1.502135232,heres categ-04
+Deanston,34,34,10,1.502135232,categ-mnxcn
+GlenKeith,35,35,10,1.502135232,heres categ-05
+Inchgower,36,36,10,1.502135232,heres categ-03
+Edradour,37,38,10,1.443375673,categ-mnxcn
+GlenDeveronMacduff,38,39,10,1.443375673,heres categ-05
+Longmorn,39,42,10,1.443375673,heres categ-03
+GlenElgin,40,43,10,1.422063512,categ-mnxcn
+ArranIsleOf,41,45,10,1.397461467,heres categ-05
+Macallan,42,48,10,1.389942053,heres categ-01
+GlenMoray,43,49,10,1.379799317,categ-mnxcn
+Caol Ila,44,62,10,1.284523258,heres categ-01
+Lagavulin,45,76,10,1.112986405,heres categ-03
+Dalwhinnie,46,37,9,1.502135232,categ-mnxcn
+BenNevis,47,40,9,1.443375673,categ-mnxcn
+Speyside,48,41,9,1.443375673,categ-mnxcn
+Craigganmore,49,44,9,1.422063512,categ-mnxcn
+Glenlossie,50,46,9,1.397461467,heres categ-02
+Tamdhu,51,47,9,1.397461467,heres categ-02
+Belvenie,52,50,9,1.379799317,categ-mnxcn
+Balblair,53,51,9,1.354006401,categ-mnxcn
+Tomatin,54,52,9,1.354006401,heres categ-02
+Cardhu,55,54,9,1.294924426,categ-mnxcn
+Glengoyne,56,55,9,1.294924426,categ-mnxcn
+Glenrothes,57,56,9,1.294924426,categ-mnxcn
+Tomintoul,58,57,9,1.294924426,heres categ-02
+Tullibardine,59,58,9,1.294924426,categ-mnxcn
+Balmenach,60,59,9,1.28979853,categ-mnxcn
+Glendronach,61,60,9,1.28979853,categ-mnxcn
+Talisker,62,61,9,1.28979853,heres categ-02
+Clynelish,63,63,9,1.284523258,categ-mnxcn
+Glenallachie,64,64,9,1.244528254,categ-mnxcn
+Linkwood,65,66,9,1.242521488,categ-mnxcn
+Oban,66,53,8,1.354006401,categ-mnxcn
+Aultmore,67,65,8,1.244528254,heres categ-02
+Benriach,68,67,8,1.242521488,categ-mnxcn
+AnCnoc,69,68,8,1.216544852,categ-mnxcn
+Glenkinchie,70,69,8,1.203253637,categ-mnxcn
+GlenGrant,71,70,8,1.156004058,heres categ-02
+Tobermory,72,71,8,1.156004058,categ-mnxcn
+GlenGarioch,73,72,8,1.154700538,heres categ-02
+Strathmill,74,73,8,1.154700538,categ-mnxcn
+Tamnavulin,75,74,8,1.154700538,categ-mnxcn
+Dufftown,76,75,8,1.132843031,heres categ-02
+Bladnoch,77,77,8,1.087460332,categ-mnxcn
+GlenSpey,78,79,8,1.048808848,categ-mnxcn
+Speyburn,79,80,8,1.028441689,categ-mnxcn
+Miltonduff,80,82,8,0.977585679,heres categ-01
+Ardbeg,81,84,8,0.976550222,heres categ-01
+Laphroig,82,85,8,0.923822643,heres categ-01
+Teaninich,83,78,7,1.087460332,heres categ-01
+Tormore,84,81,7,0.998186762,categ-mnxcn
+Auchentoshan,85,83,7,0.977585679,categ-mnxcn
+Glenfiddich,86,86,6,0.845926355,heres categ-01
