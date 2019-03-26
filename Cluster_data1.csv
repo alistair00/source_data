@@ -1,0 +1,30 @@
+Platform,shortName,man,gen,Manufacturer,Launch,End,NA,EU,JP,RW,TOTAL,image
+Color TV-Game,CTV,1,1,Nintendo,1977,1980,0,0,3,0,3,http://imgur.com/jI6P3wh.png
+Atari 2600,2600,0,2,Atari,1978,1983,23.54,3.35,0,0.75,27.64,http://imgur.com/XiNbx0V.png
+Intellivision,INT,0,2,Mattel,1980,1985,,,,,3.5,http://i.imgur.com/OoorNvJ.png
+Nintendo Entertainment System,NES,1,3,Nintendo,1983,1995,33.49,8.3,19.35,0.77,61.91,http://i.imgur.com/LOyHDue.png
+Sega Master System,SMS,2,3,Sega,1986,1992,3,6.8,1,8,18.8,http://imgur.com/5tPyAD1.png
+PC-Engine,PCE,0,4,NEC,1987,1994,0,0,3.9,1.9,5.8,http://i.imgur.com/Ik0bRDL.png
+Game Boy,GB,1,4,Nintendo,1989,2003,43.18,40.05,32.47,2.99,118.69,http://imgur.com/Yvl4Dyf.png
+Mega Drive,MD,2,4,Sega,1989,1997,16.98,8.39,3.58,0.59,29.54,http://imgur.com/B4J6zZX.png
+Super Nintendo Entertainment System,SNES,1,4,Nintendo,1990,2003,22.88,8.15,17.17,0.9,49.1,http://imgur.com/8rzdjLy.png
+GameGear,GG,2,4,Sega,1991,1997,5.4,3.23,1.78,0.21,10.62,http://i.imgur.com/MMbDu8A.png
+PlayStation,PS1,3,5,Sony,1995,2000,38.94,36.91,19.36,9.04,104.25,http://i.imgur.com/7C8UpMh.png
+Sega Saturn,SAT,2,5,Sega,1995,1999,1.83,1.12,5.8,0.07,8.82,http://imgur.com/Ter5o4Y.png
+Nintendo 64,N64,1,5,Nintendo,1996,2003,20.11,6.35,5.54,0.93,32.93,http://i.imgur.com/SiyU6zI.png
+Dreamcast,DC,2,6,Sega,1998,2001,3.9,1.91,2.25,0.14,8.2,http://imgur.com/Ter5o4Y.png
+PlayStation 2,PS2,3,6,Sony,2000,2012,53.65,55.28,23.18,25.57,157.68,http://i.imgur.com/dZQZZFR.png
+Game Boy Advance,GBA,1,6,Nintendo,2001,2010,40.39,21.31,16.96,2.85,81.51,http://imgur.com/N9Kjrfa.png
+Xbox,XBOX,4,6,Microsoft,2001,2009,15.77,7.17,0.53,1.18,24.65,http://imgur.com/fFs3qk5.png
+GameCube,NGC,1,6,Nintendo,2001,2007,12.55,4.44,4.04,0.71,21.74,http://imgur.com/9okzFq1.png
+Nintendo DS,NDS,1,7,Nintendo,2004,2014,57.37,52.07,33.01,12.43,154.88,http://imgur.com/NFpoKEU.png
+Xbox 360 ,X360,4,7,Microsoft,2005,2016,49.11,25.87,1.66,9.16,85.8,http://imgur.com/KhbdjNb.png
+PlayStation Portable,PSP,3,7,Sony,2005,2014,21.41,24.14,20.01,15.26,80.82,http://imgur.com/7D7oKxi.png
+Wii,Wii,1,7,Nintendo,2006,2013,45.38,33.75,12.77,9.28,101.18,http://imgur.com/KfwzFvq.png
+PlayStation 3,PS3,3,7,Sony,2006,2017,29.42,34.54,10.47,12.45,86.88,http://imgur.com/FOiP973.png
+Nintendo 3DS,3DS,1,8,Nintendo,2011,2017,21.05,17.45,22.8,3.75,65.05,http://imgur.com/Ifpai0L.png
+PlayStation Vita,PSV,3,8,Sony,2012,2017,2.54,5.13,5.56,2.35,15.58,http://imgur.com/wEvIkrq.png
+Wii U,WiiU,1,8,Nintendo,2012,2017,6.23,3.52,3.32,0.86,13.93,http://imgur.com/hOcRDz5.png
+PlayStation 4,PS4,3,8,Sony,2013,2017,20.89,23.7,4.78,10.14,59.51,http://imgur.com/ZWpleGO.png
+Xbox One,XOne,4,8,Microsoft,2013,2017,18.5,8.06,0.08,3.34,29.98,http://imgur.com/4sKaJzN.png
+Nintendo Switch,SWITCH,1,8,Nintendo,2017,2017,1.8,1.3,1,0.6,4.7,http://imgur.com/4WziWbL.png
