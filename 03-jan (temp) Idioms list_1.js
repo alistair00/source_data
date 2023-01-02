@@ -1,4 +1,4 @@
-[
+var idioms_list = [
   {
     "Idioms List (title)": "Wrong end of the stick"
   },
