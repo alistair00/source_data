@@ -6896,4 +6896,4 @@ var idioms_list = [
   {
     "Idioms List (title)": "Shock to the system"
   }
-]
+];
